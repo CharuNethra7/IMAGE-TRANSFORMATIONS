@@ -1,5 +1,6 @@
-# IMAGE-TRANSFORMATIONS
-
+# EX 04 IMAGE-TRANSFORMATIONS
+# DEVELOPED BY: CHARU NETHRA R
+# REGISTER NUMBER: 212223230035
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
@@ -48,8 +49,6 @@ End the program
 
 ## Program:
 
-Developed By: CHARU NETHRA R
-Register Number: 212223230035
 
 i)Image Translation
 ```
